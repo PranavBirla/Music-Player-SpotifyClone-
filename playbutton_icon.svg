@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200" role="img" aria-label="Play button">
+  <!-- Green circle (Spotify green) -->
+  <circle cx="50" cy="50" r="48" fill="#1DB954" />
+
+  <!-- Black play triangle centered -->
+  <polygon points="40,32 40,68 70,50" fill="#000000" />
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="40" height="40" role="img" aria-label="Next">
+  <!-- Two triangles for next -->
+  <path d="M22 16 L32 24 L22 32 Z" fill="#ffffff"/>
+  <path d="M14 16 L24 24 L14 32 Z" fill="#ffffff"/>
+  
+  <!-- Vertical line (same height as triangles) -->
+  <line x1="34" y1="16" x2="34" y2="32" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+</svg>
+

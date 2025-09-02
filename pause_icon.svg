@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="48" height="48" role="img" aria-label="Pause">
+  <!-- White circular outline -->
+  <circle cx="32" cy="32" r="30" fill="none" stroke="#ffffff" stroke-width="2" />
+
+  <!-- Smooth-edged pause bars (centered) -->
+  <rect x="24" y="18" width="6" height="28" rx="2" fill="#ffffff" />
+  <rect x="34" y="18" width="6" height="28" rx="2" fill="#ffffff" />
+</svg>

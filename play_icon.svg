@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="48" height="48" role="img" aria-label="Play">
+  <!-- White circular outline -->
+  <circle cx="32" cy="32" r="30" fill="none" stroke="#ffffff" stroke-width="2" />
+
+  <!-- Smooth-edged play icon (shifted left) -->
+  <path d="M25 20 Q25 18 27 19 L45 31 Q47 32 45 33 L27 45 Q25 46 25 44 Z" fill="#ffffff" />
+</svg>
